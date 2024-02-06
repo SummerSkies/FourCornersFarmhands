@@ -10,9 +10,8 @@ The Four Corners Farm map had been edited to include 12 empty plots. Each can be
 Each farmhand has a unique job and will grant unique perks as they set to work. There will be a letter at each plot written by the farmhand who will live there. This letter will give you an idea of what their job as your farmhand will be. A more specific list of professions will be listed under the Spoilers section.  
 ### Friendship
 While you will not have to give your farmhands anything to recieve their starter perks, you can unlock bonus perks if you take the time to grow your friendship with them. A list of all farmhand perks will be listed under the Spoilers section.  
-
-### Spoilers
-
+  
+  
 ## Spoilers
 **If you want to experience this mod blindly, stop reading.** The following section will have more details about each farmhand so more experienced players can know exactly what to expect, if desired.  
 
