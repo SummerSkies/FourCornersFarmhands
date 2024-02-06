@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Four Corners Farmhands",
+  "Author": "Springtime Sun",
+  "Version": "1.0.0",
+  "Description": "Adds 12 farmhands to the Four Corners farm.",
+  "UniqueID": "SpringtimeSun.FourCornersFarmhands",
+  "EntryDll": "FourCornersFarmhands.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
