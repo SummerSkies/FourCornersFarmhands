@@ -1845,12 +1845,12 @@
  <objectgroup id="7" name="Buildings">
   <object id="135" name="TileData" x="736" y="144" width="16" height="16">
    <properties>
-    <property name="Action" value="Letter &quot;KathrinesCabin.1&quot;"/>
+    <property name="Action" value="Letter &quot;ChefsCabin.1&quot;"/>
    </properties>
   </object>
   <object id="136" name="TileData" x="736" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="Letter &quot;KathrinesCabin.1&quot;"/>
+    <property name="Action" value="Letter &quot;ChefsCabin.1&quot;"/>
    </properties>
   </object>
  </objectgroup>
